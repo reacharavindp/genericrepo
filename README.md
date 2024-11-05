@@ -1,3 +1,6 @@
+ wsl --install  
+ the above command to run ubuntu on windows.  
+
 1. Ensure Dependencies are Installed Correctly
 Make sure you have installed the requests module in the correct directory and included it in your zip file.
 
